@@ -1,0 +1,11 @@
+{
+    "name": "Task Reminder",
+    "version": "1.0.0", 
+    "description": "Reminds you a random Task",
+    "manifest_version": 3,
+    "author": "Tejaswini",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Task Reminder"
+    }
+}
